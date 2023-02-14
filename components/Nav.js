@@ -4,7 +4,7 @@ export default function Nav() {
     return(
         <nav className="flex justify-between items-center py-8 scroll-smooth">
             <Link href='/'>
-                <button className="text-lg font-medium flex gap-2">John's Visuals</button>
+                <button className="text-lg font-medium flex gap-2">John&apos;s Visuals</button>
             </Link>
             <ul className="flex items-center gap-10">
                 <Link href='#portfolio'>
